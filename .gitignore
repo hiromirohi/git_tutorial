@@ -2,5 +2,5 @@
 .DS_Store
 
 # 隠したいファイル
-git_tutorial/secret.txt
+secret.txt
 atom_test
