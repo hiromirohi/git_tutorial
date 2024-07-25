@@ -1,0 +1,6 @@
+# OS固有のファイルを無視
+.DS_Store
+
+# 隠したいファイル
+git_tutorial/secret.txt
+atom_test
